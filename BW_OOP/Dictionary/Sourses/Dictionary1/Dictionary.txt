@@ -1,0 +1,6 @@
+Hello	XinChao
+Hi	Xin Chao
+Goodmorning	Chao buoi sang
+Good Afternoon	Chao buoi chieu
+Have a nice day	Chuc buoi sang vui ve
+Be	Thi, la , bi, o.
